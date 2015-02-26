@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e3a386c3727461d499a3090738a99013",
+    "hash": "a3ad4482dac044157ea1c45b74029a6c",
     "packages": [
         {
             "name": "timesplinter/ts-framework",
