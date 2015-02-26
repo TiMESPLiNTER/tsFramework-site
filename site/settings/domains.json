@@ -1,0 +1,11 @@
+{
+	"domains": {
+		/*"example.com": {
+			 "localization": "browser",
+			"timezone": "Europe/Zurich",
+			"environment": "dev",
+			"template": "default",
+			"startroute": "/"
+		}*/
+	}
+}

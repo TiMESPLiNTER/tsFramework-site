@@ -1,0 +1,23 @@
+{
+    "name": "timesplinter/ts-framework-site",
+    "type": "library",
+    "description": "An example site based on the tsFramework.",
+    "keywords": ["framework", "tsfw", "tsFramework", "example"],
+    "homepage": "https://github.com/TiMESPLiNTER/tsFramework-site",
+    "license": "LGPL",
+    "autoload": {
+       
+    },
+    "authors": [
+        {
+            "name": "Pascal Muenst",
+            "email": "dev@timesplinter.ch",
+            "homepage": "http://www.timesplinter.ch",
+            "role": "Developer"
+        }
+    ],
+	
+	"require": {
+        "timesplinter/ts-framework": "dev-master"
+	}
+}

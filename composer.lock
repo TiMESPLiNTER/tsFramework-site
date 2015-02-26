@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "e3a386c3727461d499a3090738a99013",
+    "packages": [
+        {
+            "name": "timesplinter/ts-framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TiMESPLiNTER/tsFramework.git",
+                "reference": "10b851ee5bd81e7a03fbf5082236de04a578ec24"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TiMESPLiNTER/tsFramework/zipball/10b851ee5bd81e7a03fbf5082236de04a578ec24",
+                "reference": "10b851ee5bd81e7a03fbf5082236de04a578ec24",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.2.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ch\\timesplinter\\": "src/ch/timesplinter/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL"
+            ],
+            "authors": [
+                {
+                    "name": "Pascal Muenst",
+                    "email": "dev@timesplinter.ch",
+                    "homepage": "http://www.timesplinter.ch",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A very fast and simple to use framework written in PHP.",
+            "homepage": "https://github.com/TiMESPLiNTER/tsFramework",
+            "keywords": [
+                "framework",
+                "tsFramework",
+                "tsfw"
+            ],
+            "time": "2015-02-26 15:34:13"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "timesplinter/ts-framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
