@@ -1,5 +1,5 @@
 {
-  "require": {
-    "timesplinter/ts-framework": "dev-master"
-  }
+	"require": {
+		"timesplinter/ts-framework": "@dev"
+	}
 }
