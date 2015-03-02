@@ -1,22 +1,23 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "3f0cc5eca447c52d1fa78f0b6742966c",
+    "hash": "29e48c3bfaa3190a9d60bc273bf4fc5a",
     "packages": [
         {
             "name": "timesplinter/ts-framework",
-            "version": "dev-master",
+            "version": "v0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TiMESPLiNTER/tsFramework.git",
-                "reference": "02fbae0adefb3b57de3b05606a4f083e5ae2a01d"
+                "reference": "0f55dd396ee0607bd4ba77d8bef495e617dbfa28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TiMESPLiNTER/tsFramework/zipball/02fbae0adefb3b57de3b05606a4f083e5ae2a01d",
-                "reference": "02fbae0adefb3b57de3b05606a4f083e5ae2a01d",
+                "url": "https://api.github.com/repos/TiMESPLiNTER/tsFramework/zipball/0f55dd396ee0607bd4ba77d8bef495e617dbfa28",
+                "reference": "0f55dd396ee0607bd4ba77d8bef495e617dbfa28",
                 "shasum": ""
             },
             "require": {
@@ -52,20 +53,20 @@
                 "tsFramework",
                 "tsfw"
             ],
-            "time": "2015-03-01 14:18:12"
+            "time": "2015-03-02 08:18:50"
         },
         {
             "name": "timesplinter/tsfw-common",
-            "version": "v0.1.1",
+            "version": "v0.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TiMESPLiNTER/tsfw-common.git",
-                "reference": "f6a49d1a6cec1001cb5c2bd19b1eb0719b181bff"
+                "reference": "669e248230c8e4a3f8fc9c95f65bc2b2cc96957a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TiMESPLiNTER/tsfw-common/zipball/f6a49d1a6cec1001cb5c2bd19b1eb0719b181bff",
-                "reference": "f6a49d1a6cec1001cb5c2bd19b1eb0719b181bff",
+                "url": "https://api.github.com/repos/TiMESPLiNTER/tsfw-common/zipball/669e248230c8e4a3f8fc9c95f65bc2b2cc96957a",
+                "reference": "669e248230c8e4a3f8fc9c95f65bc2b2cc96957a",
                 "shasum": ""
             },
             "require": {
@@ -98,20 +99,20 @@
                 "common",
                 "tsfw"
             ],
-            "time": "2015-03-01 00:20:33"
+            "time": "2015-03-02 07:49:54"
         },
         {
             "name": "timesplinter/tsfw-template",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TiMESPLiNTER/tsfw-template.git",
-                "reference": "0bbcd2355bce5d78d79feae3ec0f2f2170ac9104"
+                "reference": "711bd0f0f5da37f82973ae15da76c2f61444a937"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TiMESPLiNTER/tsfw-template/zipball/0bbcd2355bce5d78d79feae3ec0f2f2170ac9104",
-                "reference": "0bbcd2355bce5d78d79feae3ec0f2f2170ac9104",
+                "url": "https://api.github.com/repos/TiMESPLiNTER/tsfw-template/zipball/711bd0f0f5da37f82973ae15da76c2f61444a937",
+                "reference": "711bd0f0f5da37f82973ae15da76c2f61444a937",
                 "shasum": ""
             },
             "require": {
@@ -147,15 +148,15 @@
                 "template engine",
                 "tsfw"
             ],
-            "time": "2015-03-01 01:20:27"
+            "time": "2015-03-02 08:17:11"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "timesplinter/ts-framework": 20
-    },
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
 }

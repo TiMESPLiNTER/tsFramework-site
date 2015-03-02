@@ -1,5 +1,7 @@
 {
+	"name" : "timesplinter/ts-framework-site",
+	
 	"require": {
-		"timesplinter/ts-framework": "@dev"
+		"timesplinter/ts-framework": "0.2.*"
 	}
 }
